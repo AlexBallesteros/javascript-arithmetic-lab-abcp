@@ -27,7 +27,7 @@ function makeInt(n){
   return n
 }
 
-function makeInt(10){
+function makeInt(){
   return 10
 }
 
