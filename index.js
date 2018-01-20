@@ -22,3 +22,13 @@ function inc(n){
 function dec(n){
   return --n;
 }
+
+function makeInt(n){
+  return n
+}
+
+function parseInt(10){
+  return parseInt();
+}
+
+parseInt('nonsense!')
