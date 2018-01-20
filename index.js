@@ -5,7 +5,7 @@ function add(a, b){
 }
 
 function subtract(a, b){
-  var a = 792;
-  var b = 1;
+  var a = 112;
+  var b = 100;
   return a + b;
 }
