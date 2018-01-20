@@ -1,6 +1,5 @@
-function add(){
-  var a = 242;
-  var b = 100;
+function add(a, b){
+
   return a + b;
 }
 
