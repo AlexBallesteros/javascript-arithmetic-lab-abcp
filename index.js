@@ -24,7 +24,7 @@ function dec(n){
 }
 
 function makeInt(n){
-  var n = 1
+  n = 1
   return n
 }
 
