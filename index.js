@@ -27,8 +27,8 @@ function makeInt(n){
   return n
 }
 
-function parseInt(10){
-  return parseInt();
-}
+// function parseInt(10){
+//   return parseInt();
+// }
 
-parseInt('nonsense!')
+//parseInt('nonsense!')
