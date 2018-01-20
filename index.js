@@ -28,7 +28,8 @@ function makeInt(n){
   return n
 }
 
-function makeInt(){
+function makeInt(n){
+  var n = 10
   return 10
 }
 
